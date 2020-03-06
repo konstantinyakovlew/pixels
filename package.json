@@ -1,0 +1,23 @@
+{
+  "name": "pixels",
+  "version": "1.0.0",
+  "description": "\"# pixels\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantinyakovlew/pixels.git"
+  },
+  "author": "Konstantin Yakovlew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konstantinyakovlew/pixels/issues"
+  },
+  "homepage": "https://github.com/konstantinyakovlew/pixels#readme",
+  "dependencies": {
+    "console": "^0.7.2",
+    "electron": "^8.1.0"
+  }
+}
